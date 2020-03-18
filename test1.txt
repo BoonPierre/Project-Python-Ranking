@@ -1,3 +1,0 @@
-git add ./file.py
-git commit -m "commente"
-git push
